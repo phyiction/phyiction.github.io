@@ -1,0 +1,34 @@
+baseURL = 'https://phyiction.github.io'
+languageCode = 'en-us'
+title = 'yet another tech blog'
+theme = 'tokiwa'
+
+[params]
+description = """
+Ramblings about some projects I've been working on. #showyourwork
+"""
+
+math = true
+postDateFormat = "02 Jan 2006"
+
+[menu]
+  [[menu.main]]
+    name = "Categories"
+    weight = 1
+    url = "/categories/"
+  [[menu.main]]
+    name = "Series"
+    weight = 2
+    url = "/series/"
+  [[menu.main]]
+    name = "Posts"
+    weight = 3
+    identifier = "post"
+    url = "/posts/"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+[social]
+github = "https://github.com/phyiction/"
