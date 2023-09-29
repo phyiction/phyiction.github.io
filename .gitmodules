@@ -1,3 +1,7 @@
+[submodule "themes/tokiwa"]
+	path = themes/tokiwa
+    url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
+
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
