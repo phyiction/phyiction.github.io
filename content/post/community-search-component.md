@@ -2,7 +2,7 @@
 title = 'Community Search Component'
 categories = [ 'projects']
 date = '2022-11-14T00:00:00-06:00'
-description = """
+summary = """
 A custom React component that allows the user to filter through a list of 
 communities by aspect, e.g. organizer.
 """

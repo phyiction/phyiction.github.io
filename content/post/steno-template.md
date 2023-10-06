@@ -2,7 +2,7 @@
 title = "Steno Template"
 categories = [ 'projects']
 date = '2023-03-14T16:51:46-05:00'
-description = """
+summary = """
 A steno template for the Supernote A6 X.
 """
 draft = false

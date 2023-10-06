@@ -2,7 +2,7 @@
 title = 'Assessments Web App'
 categories = ['projects']
 date = '2023-02-04T07:41:58-06:00'
-description = """
+summary = """
 A static web app that allows you to take multiple choice assessments.
 """
 draft = false

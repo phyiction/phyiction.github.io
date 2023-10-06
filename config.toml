@@ -1,15 +1,18 @@
 baseURL = 'https://phyiction.github.io'
+copyright = '&#169; 2023 <a href="https://github.com/phyiction/">phyiction</a>. All Rights Reserved.'
 languageCode = 'en-us'
 title = 'yet another tech blog'
-theme = 'PaperMod' 
+theme = 'lite' 
 
 [params]
-description = """
-Ramblings about some projects I've been working on. #showyourwork
-"""
-
-math = true
-postDateFormat = "02 Jan 2006"
+  description = """
+  Ramblings about some projects I've been working on. #showyourwork
+  """
+  math = true
+  postDateFormat = "02 Jan 2006"
+  
+  [params.social]
+    github = "https://github.com/phyiction/"
 
 [menu]
   [[menu.main]]
@@ -17,18 +20,10 @@ postDateFormat = "02 Jan 2006"
     weight = 1
     url = "/categories/"
   [[menu.main]]
-    name = "Series"
-    weight = 2
-    url = "/series/"
-  [[menu.main]]
     name = "Posts"
-    weight = 3
-    identifier = "post"
-    url = "/posts/"
+    weight = 2    
+    url = "/post/"
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 4
-
-[social]
-github = "https://github.com/phyiction/"
+    weight = 3
