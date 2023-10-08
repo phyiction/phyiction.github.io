@@ -1,13 +1,13 @@
 +++
-title = 'Assessments Web App'
 categories = ['projects']
-date = '2023-02-04T07:41:58-06:00'
+draft = false
+modified = '2023-02-04T07:56-06:00'
+published = '2023-02-04T07:41:58-06:00'
+tags = ['Bootstrap','JavaScript','React','software']
 summary = """
 A static web app that allows you to take multiple choice assessments.
 """
-draft = false
-lastmod = '2023-02-04T07:56-06:00'
-tags = ['Bootstrap','JavaScript','React','software']
+title = 'Assessments Web App'
 +++
 
 # Background

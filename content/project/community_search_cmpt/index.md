@@ -1,17 +1,17 @@
 +++
-title = 'Community Search Component'
 categories = [ 'projects']
-date = '2022-11-14T00:00:00-06:00'
+draft = false
+modified = 'Sun Feb 05 2023 20:40:19 GMT-0600'
+published = '2022-11-14T00:00:00-06:00'
 summary = """
 A custom React component that allows the user to filter through a list of 
 communities by aspect, e.g. organizer.
 """
-draft = false
-lastmod = 'Sun Feb 05 2023 20:40:19 GMT-0600'
 tags = ['JavaScript','React','Shopify','software']
+title = 'Community Search Component'
 +++
 
-![Screenshot of community search component](/images/kidsinneedofgrace_community_search_component.png)
+![Screenshot of community search component](kidsinneedofgrace_community_search_component.png)
 
 Justin, one of the founders of [kidsinneedofgrace.com](https://www.kidsinneedofgrace.com/), 
 wanted to make it easier for Christians to find community in the greater Jackson 

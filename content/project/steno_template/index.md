@@ -1,12 +1,12 @@
 +++
-title = "Steno Template"
 categories = [ 'projects']
-date = '2023-03-14T16:51:46-05:00'
+draft = false
+published = '2023-03-14T16:51:46-05:00'
 summary = """
 A steno template for the Supernote A6 X.
 """
-draft = false
-tags = ['Inkscape', 'Supernote A6 X', 'template']
+tags = ['graphic', 'Inkscape', 'Supernote A6 X', 'template']
+title = "Steno Template"
 +++
 
 # Background
@@ -21,7 +21,7 @@ To save paper and make my notes easier to search later I'd like to take notes on
 the Supernote A6 X E Ink tablet. Unfortunately, as of today no steno template 
 exists for that device.
 
-![No existing steno template for Supernote A6 X](/images/existing-supernote-templates.png) 
+![No existing steno template for Supernote A6 X](existing-supernote-templates.png) 
 Source: https://supernote-templates.mostlyuseful.tech/
 
 **Limited horizontal space.**
@@ -41,10 +41,10 @@ a white background. Next I drew the lines using the Draw Freehand Lines tool.
 Finally, I exported the SVG as a PNG and used Preview to rotate the image 
 90 degrees counterclockwise.
 
-![steno template](/projects/steno-template/steno.png)
+![steno template](steno.png)
 
 See this [support article](https://support.supernote.com/article/15/make-customized-note-template) 
 for tips and tricks for creating your custom note template for the Supernote A5/A6 x devices.
 
-You can download the steno template [here](/projects/steno-template/steno.png). The SVG used to
-create the PNG can be found [here](/projects/steno-template/supernote_a6x_steno.svg).
+You can download the steno template [here](steno.png). The SVG used to
+create the PNG can be found [here](supernote_a6x_steno.svg).
