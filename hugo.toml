@@ -16,14 +16,13 @@ theme = 'lite'
 
 [menu]
   [[menu.main]]
-    name = "Categories"
-    weight = 1
-    url = "/categories/"
-  [[menu.main]]
-    name = "Posts"
-    weight = 2    
+    name = "Blog"
+    weight = 1    
     url = "/post/"
   [[menu.main]]
     name = "Projects"
-    weight = 3    
+    weight = 2    
     url = "/project/"
+
+[taxonomies]  
+  tag = 'tags'

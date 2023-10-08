@@ -1,5 +1,4 @@
 +++
-categories = ['projects']
 draft = false
 modified = '2023-02-04T07:56-06:00'
 published = '2023-02-04T07:41:58-06:00'

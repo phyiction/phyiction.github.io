@@ -1,5 +1,4 @@
 +++
-categories = [ 'projects']
 draft = false
 published = '2023-03-14T16:51:46-05:00'
 summary = """
