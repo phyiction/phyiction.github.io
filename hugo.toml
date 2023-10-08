@@ -24,6 +24,6 @@ theme = 'lite'
     weight = 2    
     url = "/post/"
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
+    name = "Projects"
+    weight = 3    
+    url = "/project/"
