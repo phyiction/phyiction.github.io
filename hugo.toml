@@ -2,7 +2,17 @@ baseURL = 'https://phyiction.github.io'
 copyright = '&#169; 2023 <a href="https://github.com/phyiction/">phyiction</a>. All Rights Reserved.'
 languageCode = 'en-us'
 title = 'yet another tech blog'
-theme = 'lite' 
+theme = 'lite'
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    weight = 1    
+    url = "/post/"
+  [[menu.main]]
+    name = "Projects"
+    weight = 2    
+    url = "/project/"
 
 [params]
   description = """
@@ -14,15 +24,9 @@ theme = 'lite'
   [params.social]
     github = "https://github.com/phyiction/"
 
-[menu]
-  [[menu.main]]
-    name = "Blog"
-    weight = 1    
-    url = "/post/"
-  [[menu.main]]
-    name = "Projects"
-    weight = 2    
-    url = "/project/"
+[permalinks]
+  post = ':sections/:year/:month/:slug'
+  project = ':sections/:year/:month/:slug'
 
 [taxonomies]  
   tag = 'tags'
