@@ -10,10 +10,10 @@ title = 'Assessments Web App'
 +++
 
 # Background
-While being a part of [Engage JXN](https://www.wewillgo.org/engage-jxn) I took 
-two assessments to better understand how I operate. I developed this static web 
-app to allow me to take the assessments multiple times without having to manually 
-compute the results. 
+While being a part of Engage JXN at [We Will Go](https://www.wewillgo.org/) 
+between August 2022 and May 2023 I took two assessments to better understand 
+how I operate. I developed this static web app to allow users to take the 
+assessments multiple times without having to manually compute the results. 
 
 # Design Decisions
 The results of the assessment are stored in the web browser you used to take it. 
