@@ -1,5 +1,6 @@
 baseURL = 'https://phyiction.github.io'
 copyright = '&#169; 2023 <a href="https://github.com/phyiction/">phyiction</a>. All Rights Reserved.'
+googleAnalytics = 'G-15637L07J3'
 languageCode = 'en-us'
 title = 'yet another tech blog'
 theme = 'lite'
