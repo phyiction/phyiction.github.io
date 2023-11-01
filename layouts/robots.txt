@@ -1,3 +1,8 @@
-# Do not allow any crawler to index content
 User-agent: *
-Disallow: /
+Disallow: /project/
+
+User-agent: *
+Disallow: /projects/
+
+User-agent: *
+Disallow: /tags/
